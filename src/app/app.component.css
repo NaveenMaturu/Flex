@@ -1,0 +1,42 @@
+.hello{
+	display: flex;
+	background-color:red;
+	 width: 100px;  
+  height: 100px;
+    margin-top: 10px;
+	padding: 100px;
+
+  
+}
+.hi{
+	display: flex;
+	background-color:blue;
+	 width: 100px;  
+  height: 100px;
+    margin-top: 10px;
+	padding: 100px;
+	
+
+  
+}
+.hey{
+	display: flex;
+	background-color:green;
+	 width: 100px;  
+  height: 100px;
+    margin-top: 10px;
+	padding: 100px;
+	
+
+  
+}
+.how{
+	display: flex;
+	background-color:yellow;
+	 width: 100px;  
+  height: 100px;
+    margin-top: 10px;
+	padding: 100px;
+	
+	
+}
